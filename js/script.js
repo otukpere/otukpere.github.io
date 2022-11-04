@@ -76,8 +76,8 @@
     if (syoTimer) {
       $('#simple-timer').syotimer({
         year: 2022,
-        month: 10,
-        day: 17,
+        month: 12,
+        day: 20,
         hour: 0,
         minute: 0
       });
