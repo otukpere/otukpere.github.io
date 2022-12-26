@@ -76,8 +76,8 @@
     if (syoTimer) {
       $('#simple-timer').syotimer({
         year: 2023,
-        month: 01,
-        day: 20,
+        month: 12,
+        day: 31,
         hour: 0,
         minute: 0
       });
